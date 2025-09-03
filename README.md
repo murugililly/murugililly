@@ -12,7 +12,6 @@ INSTRUCTIONS
 
 <div align="center">
 
-  <h1>👋 Hi, I'm <span style="color:#3b82f6;">thelilly</span></h1>
   <h3>Backend Developer · ALX Learner · Empowering Women in Tech</h3>
   <h4><em>⚡ Building scalable systems while lifting women to new heights in tech ⚡</em></h4>
 
